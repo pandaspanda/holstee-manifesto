@@ -1,0 +1,73 @@
+* {
+	box-sizing: border-box;
+}
+
+#parent-div {
+    background: #e8e8e8;
+	margin: auto;
+	overflow: auto;
+	padding: 10px;
+	width: 400px
+}
+
+main {
+	text-align: center;
+}
+
+p {
+	margin: auto;
+	padding: 40px 5px;
+}
+
+.quote {
+	width:190px;
+	height: 180px;
+}
+
+.twoquotes {
+    background: #F16159;
+	width:190px;
+	height: 360px;
+}
+
+.column-one,
+.column-two {
+	float: left;
+}
+
+.font1 {
+	font-family: 'Oswald', san-serif;
+}
+
+.font2 {
+	font-family: 'Quattrocento', san-serif;
+}
+
+.size1 {
+	font-size:22px;
+	line-height:28px;
+}
+
+.size2 {
+	font-size:16px;
+}
+
+.smalltext {
+	font-size:14px 
+}
+
+#quote-2, 
+#quote-5 {
+	background: #4456B0;
+}
+
+#quote-4,
+#quote-7 {
+	background: #D0FFF5;
+}
+
+#quote-6,
+#quote-9 {
+		background: #509DAD
+}
+
